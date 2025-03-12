@@ -6,12 +6,6 @@
 
 The `/backend` folder contains the Motoko canister, `app.mo`. The `/frontend` folder contains web assets for the application's user interface. The user interface is written using the React framework. Edit the `mops.toml` file to add [Motoko dependencies](https://mops.one/) to the project.
 
-## Deploying from ICP Ninja
-
-When viewing this project in ICP Ninja, you can deploy it directly to the mainnet for free by clicking "Deploy" in the upper right corner.
-
-To **download** or **reset** the project files, click the menu option next to the deploy button.
-
 ## Editing files
 
 To make adjustments to this project, you can edit any file that is unlocked. Then, redeploy your application to view your changes.
